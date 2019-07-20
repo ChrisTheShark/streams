@@ -6,24 +6,6 @@
       "id": 1
     },
     {
-      "title": "Cats in Hats",
-      "description": "My cat wearing different hats.",
-      "userId": "107096876900729242309",
-      "id": 2
-    },
-    {
-      "title": "Dogs in socks",
-      "description": "See my dog wearing socks.",
-      "userId": "107096876900729242309",
-      "id": 3
-    },
-    {
-      "title": "Dolphins in the bay",
-      "description": "See the dolphins in the bay!",
-      "userId": "107096876900729242309",
-      "id": 4
-    },
-    {
       "title": "Sharks",
       "description": "Watch the sharks",
       "userId": "107096876900729242309",
@@ -40,18 +22,6 @@
       "description": "Bad day for the turkey",
       "userId": "107096876900729242309",
       "id": 7
-    },
-    {
-      "title": "Unexpected Behavior",
-      "description": "Unexpected Behavior on create",
-      "userId": "107096876900729242309",
-      "id": 8
-    },
-    {
-      "title": "Expected Behavior",
-      "description": "Expected Behavior",
-      "userId": "107096876900729242309",
-      "id": 9
     },
     {
       "title": "Gremlins in the bay",
